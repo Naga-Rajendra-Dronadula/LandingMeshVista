@@ -1,0 +1,6 @@
+Contact: mailto:security@meshvista.com
+Contact: https://meshvista.com/contact
+Expires: 2027-01-01T00:00:00.000Z
+Acknowledgments: https://meshvista.com/security
+Preferred-Languages: en
+Canonical: https://meshvista.com/.well-known/security.txt
